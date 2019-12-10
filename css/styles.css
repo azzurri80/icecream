@@ -1,0 +1,16 @@
+.jumbotron {
+  background-color: #BDF2DF;
+  color: #C343AD;
+}
+
+.card {
+  background-color: #BDF2DF;
+  color: #C343AD;
+  padding: 50px;
+  width: 100%;
+  margin: 10px;
+}
+
+img {
+  margin: 10px 10px;
+}
